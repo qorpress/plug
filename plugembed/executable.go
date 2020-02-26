@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/ecletus/ecletus"
+	"github.com/qorpress/ecletus"
 	"github.com/moisespsena-go/task"
 	"github.com/moisespsena-go/error-wrap"
 	"github.com/spf13/cobra"

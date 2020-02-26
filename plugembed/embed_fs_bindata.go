@@ -5,7 +5,7 @@ package plugembed
 import (
 	"path/filepath"
 
-	"github.com/ecletus/plug"
+	"github.com/qorpress/plug"
 )
 
 func (p *PluginWithEmbededCommands) _setup(ev *plug.FSEvent) {

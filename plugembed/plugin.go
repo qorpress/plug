@@ -3,8 +3,8 @@ package plugembed
 import (
 	"path/filepath"
 
-	"github.com/ecletus/cli"
-	"github.com/ecletus/plug"
+	"github.com/qorpress/cli"
+	"github.com/qorpress/plug"
 	"github.com/ecletus/plug/plugprivate"
 	"github.com/moisespsena-go/pluggable"
 )

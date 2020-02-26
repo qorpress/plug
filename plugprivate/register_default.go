@@ -3,7 +3,7 @@
 package plugprivate
 
 import (
-	"github.com/ecletus/plug"
+	"github.com/qorpress/plug"
 )
 
 func (p *PluginWithPrivateFS) onFS() {

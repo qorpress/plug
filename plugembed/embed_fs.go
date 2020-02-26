@@ -1,7 +1,7 @@
 package plugembed
 
 import (
-	"github.com/ecletus/plug"
+	"github.com/qorpress/plug"
 	"github.com/moisespsena-go/assetfs/assetfsapi"
 )
 
